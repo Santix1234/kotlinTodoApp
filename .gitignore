@@ -1,0 +1,40 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Kotlin/Android specific
+*.class
+*.log
+local.properties
+
+# Dependency directories
+app/build/
+.cxx/
+
+# Logging
+*.hprof
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# External native build folder generated in Android Studio
+.externalNativeBuild
+.caches/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Keystore files
+*.jks
+*.keystore
+
+# Kotlin build artifacts
+kotlin-build/
+kotlin-classes/
