@@ -1,0 +1,19 @@
+# Android specific
+.idea/
+.gradle/
+build/
+*.iml
+local.properties
+
+# Kotlin/Java specific
+*.class
+*.log
+
+# Dependency directories
+/node_modules
+/captures
+
+# Misc
+.DS_Store
+.externalNativeBuild
+.cxx
